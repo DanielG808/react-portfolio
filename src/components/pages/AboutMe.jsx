@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutMe = () => {
   return (
-    <div className="d-flex flex-wrap justify-content-center" id="about-me">
+    <div className="d-flex flex-wrap justify-content-center" id="about">
       <h1 className="m-5">About Me</h1>
       <p className="mx-5 mb-5">
         Hello and welcome to space on the web! My name is Dan Gray and I'm a
