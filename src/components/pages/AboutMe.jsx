@@ -9,7 +9,8 @@ const AboutMe = () => {
         budding software developer and QA tester. This website and the projects
         it links to are the exciting work I've done in the world of web
         development up to this point. Please feel free to check them out
-        alongside my contact info and my resume.
+        alongside my contact info and my resume by clicking the navigation tabs
+        at the top of the page.
       </p>
     </div>
   );

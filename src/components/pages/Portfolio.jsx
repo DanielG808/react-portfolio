@@ -1,5 +1,5 @@
 import React from "react";
-import Howie from "../assets/images/howie.png";
+import Howie from "../../assets/images/Howie.png";
 
 const Portfolio = () => {
   return (
